@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on PG部落格</title>
-    <link>https://pg56714.github.io/categories/</link>
+    <link>https://pg56714.github.io/myBlog/categories/</link>
     <description>Recent content in Categories on PG部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 04 Jun 2023 12:03:00 +0800</lastBuildDate><atom:link href="https://pg56714.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jun 2023 12:03:00 +0800</lastBuildDate><atom:link href="https://pg56714.github.io/myBlog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>心得</title>
-      <link>https://pg56714.github.io/categories/%E5%BF%83%E5%BE%97/</link>
+      <link>https://pg56714.github.io/myBlog/categories/%E5%BF%83%E5%BE%97/</link>
       <pubDate>Sun, 04 Jun 2023 12:03:00 +0800</pubDate>
       
-      <guid>https://pg56714.github.io/categories/%E5%BF%83%E5%BE%97/</guid>
+      <guid>https://pg56714.github.io/myBlog/categories/%E5%BF%83%E5%BE%97/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go Language</title>
-      <link>https://pg56714.github.io/categories/go-language/</link>
+      <link>https://pg56714.github.io/myBlog/categories/go-language/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://pg56714.github.io/categories/go-language/</guid>
+      <guid>https://pg56714.github.io/myBlog/categories/go-language/</guid>
       <description></description>
     </item>
     

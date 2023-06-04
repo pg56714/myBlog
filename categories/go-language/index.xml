@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Go Language on PG部落格</title>
-    <link>https://pg56714.github.io/categories/go-language/</link>
+    <link>https://pg56714.github.io/myBlog/categories/go-language/</link>
     <description>Recent content in Go Language on PG部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://pg56714.github.io/categories/go-language/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://pg56714.github.io/myBlog/categories/go-language/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://pg56714.github.io/blog/post-13/</link>
+      <link>https://pg56714.github.io/myBlog/blog/post-13/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://pg56714.github.io/blog/post-13/</guid>
+      <guid>https://pg56714.github.io/myBlog/blog/post-13/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     

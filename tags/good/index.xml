@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Good on PG部落格</title>
-    <link>https://pg56714.github.io/tags/good/</link>
+    <link>https://pg56714.github.io/myBlog/tags/good/</link>
     <description>Recent content in Good on PG部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 04 Jun 2023 12:03:00 +0800</lastBuildDate><atom:link href="https://pg56714.github.io/tags/good/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jun 2023 12:03:00 +0800</lastBuildDate><atom:link href="https://pg56714.github.io/myBlog/tags/good/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>第一篇文章</title>
-      <link>https://pg56714.github.io/blog/test/</link>
+      <link>https://pg56714.github.io/myBlog/blog/test/</link>
       <pubDate>Sun, 04 Jun 2023 12:03:00 +0800</pubDate>
       
-      <guid>https://pg56714.github.io/blog/test/</guid>
+      <guid>https://pg56714.github.io/myBlog/blog/test/</guid>
       <description>Hello World
 我是工程師
 一級標題 二級標題 六級標題 我是工程師，我喜歡學習
